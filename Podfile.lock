@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - Cache (4.2.0)
+  - Hue (3.0.1)
+  - Imaginary (3.0.3):
+    - Cache (~> 4.0)
+  - IQKeyboardManager (6.4.0)
+  - JGProgressHUD (2.0.3)
+  - Kingfisher (4.10.1)
+  - Koloda (4.7):
+    - pop (~> 1.0)
+  - Lightbox (2.1.2):
+    - Hue (~> 3.0)
+    - Imaginary (~> 3.0)
+  - ObjectMapper (3.2.0)
+  - Panels (2.0.3)
+  - pop (1.0.12)
+  - RevealingSplashView (0.5.0)
+  - SwiftyJSON (4.1.0)
+  - ViewAnimator (2.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (~> 5.0.0)
+  - IQKeyboardManager
+  - JGProgressHUD
+  - Kingfisher (~> 4.0)
+  - Koloda (~> 4.4)
+  - Lightbox (~> 2.1.2)
+  - ObjectMapper (~> 3.2.0)
+  - Panels (~> 2.0.0)
+  - RevealingSplashView (~> 0.5.0)
+  - SwiftyJSON (~> 4.1.0)
+  - ViewAnimator (~> 2.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Cache
+    - Hue
+    - Imaginary
+    - IQKeyboardManager
+    - JGProgressHUD
+    - Kingfisher
+    - Koloda
+    - Lightbox
+    - ObjectMapper
+    - Panels
+    - pop
+    - RevealingSplashView
+    - SwiftyJSON
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  Cache: f28f8dd64b632155aabf9b3906b036a659048251
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  Imaginary: 9b45836a5af881f452a86e0a1215772ae4712d00
+  IQKeyboardManager: fcef267266379c003181fc3592f6bdb8bf4db839
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Koloda: f456d003d2ce15ef9f10c2874a444f1f570b490c
+  Lightbox: 2dc267df8be2285bc7724cb11cbbf4aaaf59dced
+  ObjectMapper: 5cccd2de6f253eda859df8116a5a554d9769e859
+  Panels: bd346a08593b64b9d295de21c366400a93437e79
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  RevealingSplashView: 0794eecad3a8983ac11a1fe474e9a9b51b926780
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  ViewAnimator: 28b9ef703e280a02852b1271ef36295ea96eae4b
+
+PODFILE CHECKSUM: 56d7e96ad2d1b4e3d8ef9c13d69963ae6aea8dec
+
+COCOAPODS: 1.7.2
